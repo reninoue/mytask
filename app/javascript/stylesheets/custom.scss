@@ -9,7 +9,7 @@ body {
 
 // header
 .header {
-  background: #026aa7;
+  background: #250e8a;
   padding: 10px;
   .nav {
     .header_menu {
@@ -34,6 +34,7 @@ body {
         transform: translate(-50%, -50%);
         font-size: 25px;
         font-weight: bold;
+        
       }
       &_inner {
         display: flex;
